@@ -1,2 +1,3 @@
 # python-practice
-This the revision of Python
+This is the revision of Python
+Author-Vivek Chauhan
